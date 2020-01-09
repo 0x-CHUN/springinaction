@@ -6,8 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="chapter02" />
+        <module name="javaconfig" />
+        <module name="XMLconfig" />
         <module name="chapter01" />
+        <module name="mixedconfig" />
         <module name="autoconfig" />
       </profile>
     </annotationProcessing>

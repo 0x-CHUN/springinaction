@@ -11,7 +11,6 @@
     <modules>
         <module>chapter01</module>
         <module>chapter02</module>
-        <module>chapter02/autoconfig</module>
     </modules>
 
     <properties>
