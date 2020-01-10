@@ -11,6 +11,7 @@
     <modules>
         <module>chapter01</module>
         <module>chapter02</module>
+        <module>chapter03</module>
     </modules>
 
     <properties>
@@ -32,6 +33,11 @@
         <c3p0.version>0.9.5.4</c3p0.version>
         <oracle.version>10.2.0.4.0</oracle.version>
         <hibernate.version>5.2.2.Final</hibernate.version>
+        <h2.version>1.4.182</h2.version>
+
+        <java.version>11</java.version>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
     </properties>
 
     <dependencyManagement>
@@ -216,6 +222,12 @@
                 <groupId>org.hibernate</groupId>
                 <artifactId>hibernate-entitymanager</artifactId>
                 <version>${hibernate.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>com.h2database</groupId>
+                <artifactId>h2</artifactId>
+                <version>${h2.version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>

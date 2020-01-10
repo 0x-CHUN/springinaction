@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/chapter01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter02/XMLconfig/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter02/XMLconfig/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter02/autoconfig/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter02/autoconfig/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter02/javaconfig/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter02/javaconfig/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter02/mixedconfig/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter02/mixedconfig/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter03/profiles/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter03/profiles/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
