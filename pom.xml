@@ -12,6 +12,8 @@
         <module>chapter01</module>
         <module>chapter02</module>
         <module>chapter03</module>
+        <module>chapter04</module>
+        <module>chapter05</module>
     </modules>
 
     <properties>
@@ -42,12 +44,6 @@
 
     <dependencyManagement>
         <dependencies>
-            <dependency>
-                <groupId>org.example</groupId>
-                <artifactId>chapter1</artifactId>
-                <version>${project.version}</version>
-            </dependency>
-
             <dependency>
                 <groupId>org.springframework</groupId>
                 <artifactId>spring-core</artifactId>

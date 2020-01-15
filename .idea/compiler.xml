@@ -7,16 +7,20 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="autoconfig" />
-        <module name="profiles" />
         <module name="chapter01" />
-        <module name="mixedconfig" />
+        <module name="profiles" />
         <module name="externals" />
+        <module name="scopedbeans" />
         <module name="conditional" />
         <module name="javaconfig" />
+        <module name="aop" />
         <module name="XMLconfig" />
-        <module name="scopedbeans" />
+        <module name="mixedconfig" />
+        <module name="chapter05" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="11" />
+    <bytecodeTargetLevel target="11">
+      <module name="chapter04" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
